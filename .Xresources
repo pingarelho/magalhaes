@@ -1,0 +1,7 @@
+XTerm.vt100.reverseVideo: true
+XTerm.vt100.faceName: Hack
+XTerm.vt100.faceSize: 15
+XTerm.vt100.translations: #override \n\
+	Shift Ctrl <Key> C: copy-selection(CLIPBOARD) \n\
+	Shift Ctrl <Key> V: insert-selection(CLIPBOARD)
+
